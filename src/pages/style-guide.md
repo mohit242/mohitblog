@@ -59,6 +59,7 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 ```python
 x = 1
 y = floor(x)
+z = List()
 ```
 
 
