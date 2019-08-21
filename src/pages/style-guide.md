@@ -56,11 +56,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
-\`\``python
-
+```python
 x = 1
-
-\`\``
+y = floor(x)
+```
 
 
 
